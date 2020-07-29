@@ -1,6 +1,6 @@
 # Mock-Login-App
 
-This project's purpose to for me to learn how to make a form with proper email and password validation using Flutter and Dart
+This project's purpose is for me to learn how to make a form with proper email and password validation using Flutter and Dart
 
 ## Helpful resources
 
