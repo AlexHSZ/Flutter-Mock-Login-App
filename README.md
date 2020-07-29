@@ -1,10 +1,10 @@
-# login
+# Mock-Login-App
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project's purpose to for me to learn how to make a form with proper email and password validation using Flutter and Dart
 
 A few resources to get you started if this is your first Flutter project:
 
